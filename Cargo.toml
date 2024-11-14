@@ -2,5 +2,11 @@
 name = "rust-mini-lib"
 version = "0.1.0"
 edition = "2021"
+authors = ["Kolden Axelson"]
+description = "A simple mini library example."
+license = "MIT"
+repository = ""
+keywords = ["education"]
+categories = ["education"]
 
 [dependencies]
